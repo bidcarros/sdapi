@@ -1,5 +1,5 @@
 {
-    "name": "smartdealer/sdapi",
+    "name": "bidcarros/sdapi",
     "description": "Smart Dealer Client API",
     "type": "php-library",
     "require": {
@@ -11,6 +11,10 @@
         {
             "name": "Patrick Otto",
             "email": "patrick@smartdealership.com.br"
+        },
+        {
+            "name" : "Alison Bento",
+            "email" : "alisonbnt@gmail.com"
         }
     ],
     "minimum-stability": "dev",
